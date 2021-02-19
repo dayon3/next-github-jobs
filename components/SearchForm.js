@@ -30,6 +30,7 @@ export default function SearchForm({ params, onParamChange }) {
             id="full_time"
             label="Only Full Time"
             type="checkbox"
+            className="d-sm-block d-none"
           />
         </Form.Group>
       </Form.Row>

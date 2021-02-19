@@ -22,8 +22,7 @@ export default function Job({ job }) {
       border="1px"
       borderColor="gray.200"
       backgroundColor="white"
-      w="800px"
-      maxW="100%"
+      maxW="900px"
       p={{
         base: "2",
         sm: "4",
@@ -101,7 +100,7 @@ export default function Job({ job }) {
             bg="gray.50"
             rounded="md"
             shadow="md"
-            maxW="800px"
+            maxW="100%"
           >
             <ReactMarkdownWithHtml
               children={job.description}
