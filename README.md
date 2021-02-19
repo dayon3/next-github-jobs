@@ -31,3 +31,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Deploy on Vercel
 
 The project is deployed using the [Vercel Platform](https://vercel.com).
+
+## Screenshots
+
+### Desktop
+
+![Desktop](./dev-data/githubjobs.png)
+
+### Mobile
+
+![Mobile](./dev-data/mobile.jpeg)
